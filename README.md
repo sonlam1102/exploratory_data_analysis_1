@@ -7,5 +7,7 @@
  - plot3.R: R script for generate plot: Energy Consumption Split by Meter Type, saved to plot3.png    
  - plot4.R: R script for generate plot: Various plots - Combined 4 different plots, saved to plot4.png    
  
-# Author: Son T. Luu   
-# Email: son.lt1103@gmail.com   
+# Info:   
+- Author: Son T. Luu   
+- Email: son.lt1103@gmail.com   
+- Reference: https://rpubs.com/omarmn/energyconsump     
