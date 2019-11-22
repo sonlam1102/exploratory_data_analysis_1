@@ -27,8 +27,8 @@ various_data <- data.frame(
     powerre=as.numeric(sub_data$Global_reactive_power)
 )
 
-par(mfrow=c(2,2),bg="NA")
 png("plot4.png")
+par(mfrow=c(2,2),bg="white")
 
 # Plot 1: top left
 with(various_data,{
